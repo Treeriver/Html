@@ -1,2 +1,2 @@
-# Html
-The task in baidu institute of front end technolog 
+# Html/CSS
+The task in baidu institute of front end technology
